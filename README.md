@@ -1,6 +1,13 @@
-Techsummit 2024 code from RIE
-Opensource as always
-Install the dependancies
-python3 final.py 
-^ to run code 
-Ask if you need help running the code to Krish, Harsh or Jack who have coded this! 
+# Techsummit 2024 Code from RIE
+
+Open source as always.
+
+## Installation
+
+Install the dependencies.
+
+```bash
+python3 final.py
+```
+
+Feel free to ask if you need help running the code to Krish, Harsh or Jack who have coded this!!
